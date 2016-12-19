@@ -6,7 +6,6 @@ So here it is!
 
 *** 
 
-xStream doesn't use indexers like Specto or similar Add-Ons do. If you start [xstream](https://github.com/xStream-Kodi/plugin.video.xstream) it gives you the possibility to manually scan all different pages. Therefor my intention was, to integrate the global search function in MetalliQ. 
-***
+[xstream](https://github.com/xStream-Kodi/plugin.video.xstream)
 
-The scanned sites are *NOT* following certain rules. This is not a problem for movies, but for shows. I didn't find a possiblity to intergrate a precise, universal and statisfying search function that delivers exact results for episodes. 
+The scanned sites are *NOT* following certain rules. This is not a problem for movies, but for tv-shows. I didn't find a possiblity to intergrate a precise, universal and statisfying search function that delivers exact results for episodes within seasons, so screw it for the moment - enjoy the movie search! 
