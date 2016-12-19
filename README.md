@@ -1,4 +1,4 @@
-# xstreamplayer
+# MetalliQ Player For xStream
 ## xStream Player for MetalliQ
 
 xStream is the biggest german streaming Add-On for Kodi. Therefor I always wanted an integration of that plattform in my beloved Extended Info Mod.
